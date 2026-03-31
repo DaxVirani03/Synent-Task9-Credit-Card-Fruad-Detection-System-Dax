@@ -65,7 +65,10 @@ Open `23AIML076.ipynb` in any Jupyter environment and run all cells. Ensure `fra
     ```bash
     streamlit run app.py
     ```
-
+## Deployed on 
+https://credit-card-fruad-detection-ann-vs-xgboost-4paeu8ua6okztjquqre.streamlit.app/
 ## 👨‍💻 Author
 **23AIML076**
 (Course: ADML PRAC, Sem 6)
+## Dataset
+https://www.kaggle.com/datasets/kartik2112/fraud-detection/data?select=fraudTrain.csv
